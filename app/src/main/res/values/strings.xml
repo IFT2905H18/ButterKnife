@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Butterknife_demo</string>
+    <string name="rouge">ROUGE</string>
+    <string name="boutons_de_couleur">BOUTONS DE COULEUR</string>
+    <string name="bleu_1">BLEU 1</string>
+    <string name="bleu_2">BLEU 2</string>
+    <string name="bleu_3">BLEU 3</string>
+    <string name="disable_all">DISABLE ALL</string>
+</resources>
